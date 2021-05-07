@@ -1,2 +1,0 @@
-# Liferino
-life manager
